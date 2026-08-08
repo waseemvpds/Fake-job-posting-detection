@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+reportlab
+scikit-learn
+lightgbm
+scipy
+xgboost
+catboost
+seaborn
+jupyter
+ipykernel
