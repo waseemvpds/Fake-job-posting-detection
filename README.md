@@ -468,7 +468,7 @@ The metrics configured in the current Streamlit application are:
 
 | Metric | Value |
 |---|---:|
-| Accuracy | 98.46% |
+| Accuracy | % |
 | Precision | 90.68% |
 | Recall | 75.61% |
 | F1 Score | 82.46% |

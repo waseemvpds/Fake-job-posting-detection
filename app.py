@@ -51,11 +51,11 @@ BRAND_INK = "#0f172a"
 
 MODEL_METRICS = {
     "Algorithm": "LightGBM (RandomizedSearchCV tuned)",
-    "Accuracy": 0.9846,
-    "Precision": 0.9068,
-    "Recall": 0.7561,
-    "F1 Score": 0.8246,
-    "ROC AUC": 0.9905,
+    "Accuracy": 0.9902,
+    "Precision": 0.9792,
+    "Recall": 0.8150,
+    "F1 Score": 0.8896,
+    "ROC AUC": 0.9953,
 }
 
 SUSPICIOUS_WORDS = [
